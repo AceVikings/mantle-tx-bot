@@ -16,6 +16,10 @@ For example:
 
 Let's say I create a weekly tournament contract and I want my users to be able to be notified when the tournament starts or ends, I'll create a custom event for it and ask them to subscribe to that event using this bot, whenever my contract next emits that event, they'll know the tournament has started or ended.
 
+### Demo
+
+[![Demo](1.png)](https://youtu.be/N4wQVT9U3SM "Demo Video")
+
 ### How to use this bot?
 
 This bot can be invited in a server and used there, or it can directly be DM'd for alerts. Do note: the alerts come through DMs whether you use commands on server channels or in DMs.
