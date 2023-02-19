@@ -1,0 +1,5 @@
+//To use this application please create a .env file with these
+TOKEN = <your discord client token>
+CLIENT_ID = <discord client ID>
+RPC = <rpc provider>
+WSS = <wss provider>
